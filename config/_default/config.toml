@@ -13,6 +13,7 @@ title = ""
 #baseurl = "https://recompute.netlify.app/"
 #baseurl = "https://nomanjav.github.io/test.github.io/"
 baseurl = "https://recompute-pk.github.io/"
+CanonifyURLs=true
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
