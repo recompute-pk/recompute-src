@@ -1,4 +1,4 @@
 [submodule "public"]
 	path = public
-	url = https://github.com/nomanjav/test.github.io.git
-	branch = main
+	url = https://github.com/recompute-pk/recompute-pk.github.io.git
+	branch = master
