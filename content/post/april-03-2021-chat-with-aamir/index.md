@@ -1,5 +1,5 @@
 ---
-title: A dialogue with Aamir Shahzad
+title: ReCompute with Aamir Shahzad | Purpose of Education, Pakistani vs Foreign Universities, Root Causes
 date: 2021-04-03
 authors: [""]
 
