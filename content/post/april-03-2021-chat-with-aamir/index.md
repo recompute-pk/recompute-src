@@ -7,6 +7,8 @@ authors: [""]
 
 Aamir Shahzad has studied at NUST and LUMS in Pakistan. But he's also experienced being a student and researcher in France, Sweden, China, Singapore and Russia. As a teacher, he has experienced working at 5 Pakistani universities, and has been involved in curriculum development at departmental level as well.
 
+{{< youtube w7Ft2ymGmfc >}}
+
 # Why Aamir?
 
 This profile makes Aamir a great choice for giving us a cross-sectional tour of a computer science teacher who is simultaneously bound by department's curricular choices as well as university's culture and priorities, while cross comparing with 'baahir ki universities.' Secondly, Aamir being an idealist, always is cognizant of the fact that there is a difference between what is happening in our universities and what ought to be. He'll unfold both within this conversation.
