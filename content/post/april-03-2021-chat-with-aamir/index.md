@@ -1,5 +1,5 @@
 ---
-title: ReCompute with Aamir Shahzad | Purpose of Education, Pakistani vs Foreign Universities, Root Causes | Podcast \\# 1
+title: 'ReCompute with Aamir Shahzad | Purpose of Education, Pakistani vs Foreign Universities, Root Causes | Podcast # 1'
 date: 2021-04-03
 authors: [""]
 
