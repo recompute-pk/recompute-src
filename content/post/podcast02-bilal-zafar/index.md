@@ -1,5 +1,5 @@
 ---
-title: 'ReCompute with Bilal Zafar | Purpose of a University | Role of Industry | Academia-Industry Partnership Podcast # 2'
+title: 'ReCompute with Bilal Zafar | Types and roles of universities, importance of purpose alignment, working with the industry | Podcast # 2'
 date: 2021-08-26
 authors: [""]
 ---
