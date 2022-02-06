@@ -1,10 +1,12 @@
 ---
 title: 'ReCompute with Khalid Latif | Teaching Excellence | Quality vs Process focus in Academia | Podcast # 4'
-date: 2021-10-07
+date: 2022-02-06
 authors: [""]
 ---
 
 Noman came across Khalid Latif as his senior in his university at Bahawalpur where Khalid had kickstarted a final exam boycott movement. This was intriguing, as historically, most of the student-led strikes were for non-academic issues at that time. Khalid begins ReComputing by shedding more light on that event:
+
+{{< youtube YICb8exZQU4 >}}
 
 In most universities, the blue-eyed faculty members get to teach their chosen courses, while at the time of the course allocation, the rest of the courses are distributed whimsically by their HoDs. So when that happens, and if the teacher does not have the will or competency to make additional effort to learn a new subject, he’ll dance, i.e. he’ll pass time while making sure that the students are happy. Sometimes this dance even includes revealing the final exam prior to the day of exam. Surely, this dance makes most of the students happy most of the time, but it didn’t work for Khalid Latif; and after he talked to other studious class-fellows they all agreed that they deserve better than this, and that this isn’t even an evaluation. As soon as they got the paper (same as revealed by the teacher earlier) they returned the empty answer sheets and were almost proud of the creative and silent way of their protest, but were shocked to know that the university administration did propaganda against the students at first, and when that failed, they failed to take any action against the way the course and exam had been conducted. Nevertheless, Khalid Latif and the batch got the message across to the other side successfully, which at least got them thinking for a while.
 
