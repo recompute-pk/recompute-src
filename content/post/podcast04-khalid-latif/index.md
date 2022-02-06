@@ -1,5 +1,5 @@
 ---
-title: 'ReCompute with Khalid Latif | Teaching Excellence | Quality vs Process focus in Academia | Podcast # 4'
+title: 'ReCompute with Khalid Latif | Academia: Quality vs Process, Admin Support | Industry Skills | Podcast # 4'
 date: 2022-02-06
 authors: [""]
 ---
