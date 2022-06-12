@@ -3,6 +3,7 @@ title: 'ReCompute with Umar Suleman & Sarfraz Raza | How to Teach Programming Fu
 date: 2022-06-12
 authors: [""]
 ---
+Both our guests in this podcast are Computer Science (CS) university teachers, and both have their own, unique, unconventional approach to teaching introductory programming courses. We ask them why they felt universities in Pakistan are not producing the quality of graduates they could, and why conventional teaching approach in most Pakistani Universities was probably not fulfilling its purpose. We then explore their teaching methodology in some detail, getting down to the level of specifics about teaching in a CS classroom that we have never been to before in our podcasts. We hope both CS teachers and students benefit from listening to our guests.
 
 {{< youtube fsGDsueEyOE >}}
 
