@@ -1,10 +1,10 @@
 ---
-title: 'ReCompute with Ali Khayyam | Why academia is not delivering | Having impact | Podcast # 8'
+title: 'ReCompute with Ali Khayam | Why academia is broken | Creating real impact | EdTech’s Promise | Podcast # 8'
 date: 2022-12-11
 authors: [""]
 ---
 
-Dr. Ali Khayyam, a stellar teacher and world-class scholar, with high impact factor publications, grants, awards, and recognition any academician in the world could dream of, still left academia stating that his work wasn’t creating impact in a university. Hear his journey, thought process and golden advice for those who are in the business of improving the state of academic affairs.
+Dr. Ali Khayam, a stellar teacher and world-class scholar, with high impact factor publications, grants, awards, and recognition any academician in the world could dream of, still left academia stating that his work wasn’t creating impact in a university. Hear his journey, thought process and golden advice for those who are in the business of improving the state of academic affairs.
 
 {{< youtube 70MB1I4q_yY >}}
 
